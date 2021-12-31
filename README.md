@@ -4,14 +4,14 @@
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/license/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="LICENSE">
-    <img src="https://img.shields.io/github/contributors/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Contributors">
-    <img src="https://img.shields.io/github/repo-size/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Repository Size"> <br>
-    <img src="https://img.shields.io/github/forks/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/stars/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/watchers/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Watchers">
-    <img src="https://img.shields.io/github/commit-activity/w/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Commit Activity">
-    <img src="https://img.shields.io/github/issues/notreallyshikhar/YukkiMusicBot?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/license/Maulana062/YukkiMusicBot?style=for-the-badge" alt="LICENSE">
+    <img src="https://img.shields.io/github/contributors/Maulana062/YukkiMusicBot?style=for-the-badge" alt="Contributors">
+    <img src="https://img.shields.io/github/repo-size/Maulana062/YukkiMusicBot?style=for-the-badge" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/github/forks/Maulana062/YukkiMusicBot?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/stars/Maulana062/YukkiMusicBot?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/watchers/Maulana062/YukkiMusicBot?style=for-the-badge" alt="Watchers">
+    <img src="https://img.shields.io/github/commit-activity/w/Maulana062/YukkiMusicBot?style=for-the-badge" alt="Commit Activity">
+    <img src="https://img.shields.io/github/issues/Maulana062/YukkiMusicBot?style=for-the-badge" alt="Issues">
 </p>
 
 <h3 align="center">
@@ -30,7 +30,7 @@
 </h2>
 
 <p align="center">
-<a href="https://github.com/NotReallyShikhar/YukkiMusicBot/tree/Multi-Assistant"><img src="https://img.shields.io/badge/MULTI%20ASSISTANT%20MODE-blueviolet?style=for-the-badge" width="250""/</a>
+<a href="https://github.com/Maulana062/YukkiMusicBot/tree/Multi-Assistant"><img src="https://img.shields.io/badge/MULTI%20ASSISTANT%20MODE-blueviolet?style=for-the-badge" width="250""/</a>
 </p>
     
 <h2 align="center">
@@ -48,7 +48,7 @@
    Stay Up-to-Date
 </h2>
 
-<p align="center"><img src="https://github.com/notreallyshikhar/YukkiMusicBot/blob/main/Utils/star.gif" alt="NotReallyShikhar Github" width="1000px" /></p>
+<p align="center"><img src="https://github.com/Maulana062/YukkiMusicBot/blob/main/Utils/star.gif" alt="NotReallyShikhar Github" width="1000px" /></p>
 
 
 
@@ -64,7 +64,7 @@ shikhar@MacBook~ $ sudo pip3 install -U pip
 shikhar@MacBook~ $ curl -fssL https://deb.nodesource.com/setup_17.x | sudo -E bash -
 shikhar@MacBook~ $ sudo apt-get install nodejs -y
 shikhar@MacBook~ $ npm i -g npm
-shikhar@MacBook~ $ git clone https://github.com/notreallyshikhar/YukkiMusicBot
+shikhar@MacBook~ $ git clone https://github.com/Maulana062/YukkiMusicBot
 shikhar@MacBook~ $ cd YukkiMusicBot
 shikhar@MacBook~ $ pip3 install -U -r requirements.txt
 shikhar@MacBook~ $ cp sample.env .env
@@ -77,7 +77,7 @@ shikhar@MacBook~ $ cp sample.env .env
 ```console
 shikhar@MacBook~ $ bash start
 ```
-![alt text](https://github.com/notreallyshikhar/YukkiMusicBot/blob/main/Utils/screen.png)
+![alt text](https://github.com/Maulana062/YukkiMusicBot/blob/main/Utils/screen.png)
 
 
 <h2 align="center">
@@ -85,7 +85,7 @@ shikhar@MacBook~ $ bash start
 </h2>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/NotReallyShikhar/YukkiMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Maulana062/YukkiMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 
 </p>
 
@@ -142,7 +142,7 @@ shikhar@MacBook~ $ python3 gen_session.py
 
 ## License
 
-Distributed under the [GNU General Public License v3.0 License.](https://github.com/notreallyshikhar/YukkiMusicBot/blob/main/LICENSE) See `LICENSE.md` for more information.
+Distributed under the [GNU General Public License v3.0 License.](https://github.com/Maulana062/YukkiMusicBot/blob/main/LICENSE) See `LICENSE.md` for more information.
 
 ## Acknowledgements
 
